@@ -1,0 +1,35 @@
+﻿  main.cpp
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(16): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(16): warning C4309: '=': truncation of constant value
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(134): warning C4018: '<': signed/unsigned mismatch
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(132): note: while compiling class template member function 'bool Set<int>::Contains(T) const'
+          with
+          [
+              T=int
+          ]
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(171): note: see reference to function template instantiation 'bool Set<int>::Contains(T) const' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(33): note: see reference to class template instantiation 'Set<int>' being compiled
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(154): warning C4018: '<': signed/unsigned mismatch
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(142): note: see reference to function template instantiation 'Set<int> Union<int>(const Set<int> &,const Set<int> &)' being compiled
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(168): warning C4018: '<': signed/unsigned mismatch
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(151): note: see reference to function template instantiation 'Set<int> Intersection<int>(const Set<int> &,const Set<int> &)' being compiled
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(183): warning C4018: '<': signed/unsigned mismatch
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(267): note: see reference to function template instantiation 'Set<int> SetDifference<int>(const Set<int> &,const Set<int> &)' being compiled
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(77): warning C4018: '<': signed/unsigned mismatch
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(73): note: while compiling class template member function 'void Set<int>::CopyFrom(const Set<int> &)'
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(58): note: see reference to function template instantiation 'void Set<int>::CopyFrom(const Set<int> &)' being compiled
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(57): note: while compiling class template member function 'Set<int>::Set(const Set<int> &)'
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\automat.hpp(109): note: see reference to function template instantiation 'Set<int>::Set(const Set<int> &)' being compiled
+c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(99): warning C4018: '<': signed/unsigned mismatch
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(95): note: while compiling class template member function 'void Set<int>::Resize(::size_t)'
+  c:\users\acer\desktop\oop\_oop pri nora angelova\project-practice\project-practice\set.hpp(122): note: see reference to function template instantiation 'void Set<int>::Resize(::size_t)' being compiled
+  Automata Project.vcxproj -> C:\Users\Acer\Desktop\OOP-FMi\OOP\Automata Project\Debug\Automata Project.exe
